@@ -1,4 +1,4 @@
-[![Ericsen's GitHub Banner](https://site.erichandsen.dev/favicon/android-chrome-512x512.png)](https://site.erichandsen.dev)
+[![Ericsen's GitHub Banner](https://site.erichandsen.dev/images/og.png)](https://site.erichandsen.dev)
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=ericsen-tsai&label=Profile%20views&color=red&style=for-the-badge)](https://site.erichandsen.dev)
 [![](https://wakatime.com/badge/user/265f9e20-668b-4b2a-b7cf-578293464dae.svg?style=for-the-badge)](https://wakatime.com/@ericsen-tsai)
