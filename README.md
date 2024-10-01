@@ -1,0 +1,47 @@
+[![Ericsen's GitHub Banner](https://site.erichandsen.dev/favicon/android-chrome-512x512.png)](https://site.erichandsen.dev)
+[![Visits Badge](https://komarev.com/ghpvc/?username=ericsen-tsai&label=Profile%20views&color=red&style=for-the-badge)](https://site.erichandsen.dev)
+[![](https://wakatime.com/badge/user/265f9e20-668b-4b2a-b7cf-578293464dae.svg?style=for-the-badge)](https://wakatime.com/@ericsen-tsai)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsen-tsai&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsen-tsai&layout=compact&theme=radical)
+
+# **Greetings, I’m Ericsen**
+
+**Front-End Developer | Eternal Student of Technology**  
+Currently based in Taipei, Taiwan
+
+- I'm currently working on [site](https://github.com/ericsen-tsai/site)
+
+- How to reach me
+  - **LinkedIn:** [Ericsen Tsai](https://www.linkedin.com/in/ericsen-tsai-a00948236/)
+  - **Email:** [bommer95175@gmail.com](mailto:bommer95175@gmail.com)
+
+## Languages and Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,react,figma,git,jest,nodejs,postgres,postman,py,tailwind,vscode,visualstudio,vercel,vite,supabase,styledcomponents,sass,regex,prisma,powershell,firebase,express,emotion,electron,bun,docker,npm,pnpm,vitest"/>
+</p>
+
+## Weekly development breakdown
+
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+TypeScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   00.00 %
+Other        0 secs          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
+JSON         0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
+MDX          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+> "In every line of code, there is a philosophy — a balance between order and chaos, creation and destruction. Code, like life, is a delicate dance between the known and the unknown." – _Anonymous_
+
+---
+
+**Let’s build something timeless.**
+
+---
