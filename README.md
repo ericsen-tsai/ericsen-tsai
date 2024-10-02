@@ -26,24 +26,10 @@ Currently based in Taipei, Taiwan
 ## Weekly development breakdown
 
 <!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-TypeScript   0 secs          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀   00.00 %
-Other        0 secs          ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
-JSON         0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
-MDX          0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 %
-```
-
 <!--END_SECTION:waka-->
 
 ---
 
-> "In every line of code, there is a philosophy — a balance between order and chaos, creation and destruction. Code, like life, is a delicate dance between the known and the unknown." – _Anonymous_
-
----
-
-**Let’s build something timeless.**
+> "It is better to be lucky. But I would rather be exact. Then when luck comes you are ready." – _Ernest Hemingway, The Old Man and the Sea_
 
 ---
