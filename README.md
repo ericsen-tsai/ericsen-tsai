@@ -1,7 +1,7 @@
 [![Ericsen's GitHub Banner](https://site.erichandsen.dev/images/og.png)](https://site.erichandsen.dev)
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=ericsen-tsai&label=Profile%20views&color=red&style=for-the-badge)](https://site.erichandsen.dev)
-[![](https://wakatime.com/badge/user/265f9e20-668b-4b2a-b7cf-578293464dae.svg?style=for-the-badge)](https://wakatime.com/@ericsen-tsai)
+[![](https://wakatime.com/badge/user/265f9e20-668b-4b2a-b7cf-578293464dae.svg?style=for-the-badge)](https://wakatime.com/@ericsentsai3)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsen-tsai&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsen-tsai&layout=compact&theme=radical)
